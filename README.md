@@ -41,4 +41,7 @@ A abordagem mais simples é pela construção de uma rede neural com imagens de 
 * [Matplotlib](https://matplotlib.org/)
 * [MobilinetV2](https://keras.io/api/applications/mobilenet/) 
 
+
+## Notebook do projeto
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/slvitor/visao-computacional-5DTSR/blob/main/Deteccao_liveness_mobilinet.ipynb)
